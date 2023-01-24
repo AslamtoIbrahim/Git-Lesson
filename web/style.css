@@ -1,10 +1,10 @@
 body {
-    background: #a728d9;
+    background: #fafbfc;
     padding: 0 24px;
     margin: 0;
     height: 100vh;
-    color: rgb(233, 70, 70);
+    color: rgb(34, 3, 3);
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
   }
